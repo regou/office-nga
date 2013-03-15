@@ -1,0 +1,52 @@
+body{background:none !important}
+
+/*主论坛视区*/
+#m_threads .forumbox:first-of-type tbody tr:first-of-type{
+    display: none;
+}
+
+
+.row1c1, .forumbox .row1 .c1{
+    background-color: #D3D2CD !important
+}
+.row2c1, .forumbox .row2 .c1{
+    background-color: #D8D5C5 !important
+}
+.forumbox .row1 .c2{
+    background-color: #F3F1E6 !important;
+}
+.forumbox .row2 .c2{
+    background-color: #EBFBEF !important;
+}
+.forumbox .row1 .c3_{
+    background-color: #D3D2CD !important
+}
+.forumbox .row2 .c3_{
+    background-color: #D8D5C5 !important
+}
+.forumbox .row1 .c4_{
+    background-color: #D3D2CD !important
+}
+.forumbox .row2 .c4_{
+    background-color: #D8D5C5 !important
+}
+
+.forumboxrightlist .box h2, .forumbox th, .forumbox thead td{
+    background: #0C1021 !important;
+}
+/*主论坛视区结束*/
+
+/*帖子视区*/
+.page_nav .cell{
+    background-image: none !important;
+}
+.page_nav a, .page_nav .cell{
+    background: -webkit-linear-gradient(top, #D3D2CD, #D8D5C5) !important;
+    background: linear-gradient(#D3D2CD, #D8D5C5) !important;
+}
+/*帖子视区结束*/
+
+/*首页视区*/
+.catenew *{
+    background-color: #D3D2CD !important;
+}
