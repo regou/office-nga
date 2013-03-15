@@ -34,6 +34,9 @@ body{background:none !important}
 .forumboxrightlist .box h2, .forumbox th, .forumbox thead td{
     background: #0C1021 !important;
 }
+
+.w100 .forumboxrightlist{display: none;}
+
 /*主论坛视区结束*/
 
 /*帖子视区*/
